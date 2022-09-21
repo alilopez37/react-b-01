@@ -1,5 +1,5 @@
 import logo from '../assets/imgs/obencabs.svg';
-import '../assets/styles/header.css';
+import '../assets/styles/Header.css';
 
 function Header() {
     return (
